@@ -10,7 +10,6 @@ Our game server - byond://talestation.ddns.net:5856
 - Patchy - Server Host, Backend Support
 - Jolly - Project Lead, Maptainer, (temporary) GitHub Maintainer
 - Prodirus - Head coder, Maintainer
-- Goffy - Spritainer
 - John Fulp Willard - Upstream Manager
 
 # TaleStation History and Lore
