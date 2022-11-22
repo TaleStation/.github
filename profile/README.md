@@ -3,6 +3,8 @@ TaleStation is a /TG/station downstream, committed to giving an enticing rolepla
 
 TaleStation is committed to giving its players and community a centric RP environment for them to play in. An environment where death and paranoia are key parts, as well as story-telling. Make friends, make enemies, slip and kill someone! Be engaged in dramas and sorrows, all here on TaleStation.
 
+Please note, to play on our servers you must join our Discord. Any further questions can be directed there. This may or may not change in time.
+
 Our Discord - https://discord.gg/PMbmF6xAZ5
 Our game server - byond://talestation.ddns.net:5856
 
