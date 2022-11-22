@@ -19,6 +19,8 @@ Our game server - byond://talestation.ddns.net:5856
 # TaleStation History and Lore
 More information about our lore can be found [here](https://github.com/TaleStation/TaleStation-CommonCore)!
 
+You can also dive into the chapters more in-depth in our Discords lore channels.
+
 TaleStation was originally called JollyStation, which rebranded on August 16th, 2022.
 
 MapleStation is the sister codebase to TaleStation, sharing the same root. There is no direct involvement or relationship with MapleStation.
