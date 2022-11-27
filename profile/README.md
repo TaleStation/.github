@@ -15,6 +15,7 @@ Our game server - byond://talestation.ddns.net:5856
 - Prodirus - Head coder, Maintainer
 - John Fulp Willard - Upstream Manager
 - ZephyrTFA - Upstream Manager
+- iwishforducks - Lore Write
 
 # TaleStation History and Lore
 More information about our lore can be found [here](https://github.com/TaleStation/TaleStation-CommonCore)!
