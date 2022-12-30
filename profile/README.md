@@ -6,6 +6,7 @@ TaleStation is committed to giving its players and community a centric RP enviro
 Please note, to play on our servers you must join our Discord. Any further questions can be directed there. This may or may not change in time.
 
 Our Discord - https://discord.gg/PMbmF6xAZ5
+
 Our game server - byond://talestation.ddns.net:5856
 
 # TaleStation's Development Staff
