@@ -13,6 +13,7 @@ Our game server - byond://talestation.ddns.net:5856
 
 <details>
 <summary> Code Team </summary>
+
 - Patchy - Server Host, Backend Support
 - Jolly - Project Lead, Maptainer
 - Prodirus - Head coder, Maintainer
@@ -22,6 +23,7 @@ Our game server - byond://talestation.ddns.net:5856
 
 <details>
 <summary> Lore Team </summary>
+
 - Jolly - Lore Master
 - iwishforducks - Lore Write
 - Vexylius - Lore Write
