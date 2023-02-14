@@ -27,6 +27,7 @@ Our game server - byond://talestation.ddns.net:5856
 - Jolly - Lore Master
 - iwishforducks - Lore Write
 - Vexylius - Lore Write
+- MarkSuckerberg - Lore Write
 </details>
 
 # TaleStation History and Lore
