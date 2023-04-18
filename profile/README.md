@@ -29,6 +29,7 @@ Our game server - byond://talestation.ddns.net:5856
 - Vexylius - Lore Write
 - MarkSuckerberg - Lore Write
 - Zytolg - Lore Write
+- Imaginos - Lore Write
 </details>
 
 # TaleStation History and Lore
@@ -49,9 +50,17 @@ TaleStation is committed to giving its players an inclusive, enjoyable roleplayi
 <summary> Purpose Statement </summary>
 We are not HRP nor MRP, but somewhere in-between. Ideally, we would like to not be identified with such terms. We would like to be known as **the roleplay** server. Simply as. 
 
-Here at TaleStation we want to create an environment where players can become friends with one another, ICly or OOCly, and create interesting and fun narratives. That is to say, many won’t be without strife or conflict. Stories are meant to be interesting, enticing and captivating. If your story follows the format every time, are you having fun? Because that's all that matters! Conflict and strife should be an integral part to stories here at TaleStation. Drama, woes, and murders abound. Every reaction needs a proper re-action to the events. Security is mobilized, the paramedics are dispatched, what a frightful scene! The curator was stabbed to death in the library! A calling card is left on his being, citing a page from a book kept in the library database. Who knows where this drama will go.. Stories don’t need to be inclusive either, but you should also accept new parties to have fun with you! If you’re just having fun with your friends, that's cool! Someone peaking interest? Don’t shy them away, talk to them! Interactions are key to a healthy TaleStation environment. Always ahelp problematic players if they make you uncomfortable. Never take OOC matters into your IC hands. Let the admins deal with it. 
+TaleStation is a non erotic, adult roleplay server.
+We want to create a server where everyone and anyone can come and make a story for their characters. 
+Classically, we'd be considered a "HRP" server, but we just want to be known as a true "RP" server. Interactions is key!
 
-At the end of the day, TaleStation is a server where everyone can have fun. Bad actors will be removed if needed. We hope you enjoy your time here at TaleStation, and hope to see your wonderful stories to come. - The TaleStation administration and coding staff
+The environment here at TaleStation should be friendly to approach OOCly. If you have any issues, never be afraid to ahelp or ask staff. We'll try our best to answer questions you may have. Secondly, we want our players to be **as inclusive** as possible. Dramas, tragedies, and comedies abound. Try to include new people to your groups! Who knows, you may just make a new friend.
+
+TaleStation aims to create an atmosphere rich with drama, tragedies, comedies and more. Each story created by every player is unique in its own right; you don't need to be a writer either! Medbay was bombed! The CMO is missing- and there's a chef in the middle of chemistry.. what could this mean?! Each story doesn't need to be thoroughly planned out - it can be on a whim, its perfectly OKAY! Stories can be a shift long or span across multiple shifts, the choice is yours!
+
+Together, as players and staff, we aim to make TaleStation an enjoyable experience for those who aren't so RP heavy and those who enjoy RP.
+
+- The TaleStation Administration and Development Staff
 </details>
 
 # Attributions 
