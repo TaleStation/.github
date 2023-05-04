@@ -7,7 +7,7 @@ Please note, to play on our servers you must join our Discord. Any further quest
 
 Our Discord - https://discord.gg/PMbmF6xAZ5
 
-Our game server - (byond://join.shiptest.net:1565)[byond://join.shiptest.net:1565]
+Our game server - (link)[byond://join.shiptest.net:1565]
 
 # TaleStation's Development Staff
 
