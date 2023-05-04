@@ -14,11 +14,11 @@ Our game server - [byond://join.shiptest.net:1565](byond://join.shiptest.net:156
 <details>
 <summary> Code Team </summary>
 
-- Patchy - Server Host, Backend Support
+- ZephyrTFA - Server Host, Backend Support
+- Patchy - Misc Backend Support
 - Jolly - Project Lead, Maptainer
 - Prodirus - Head coder, Maintainer
 - John Fulp Willard - Upstream Manager
-- ZephyrTFA - Upstream Manager
 </details>
 
 <details>
