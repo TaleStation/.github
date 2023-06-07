@@ -19,6 +19,7 @@ Our game server - [byond://join.shiptest.net:1565](byond://join.shiptest.net:156
 - Jolly - Project Lead, Maptainer
 - Prodirus - Head coder, Maintainer
 - John Fulp Willard - Upstream Manager
+- Onule - Spritetainer, Sprite lead
 </details>
 
 <details>
