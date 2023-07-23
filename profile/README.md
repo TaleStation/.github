@@ -69,4 +69,4 @@ Together, as players and staff, we aim to make TaleStation an enjoyable experien
 Most commits prior to January 2022 we would like to attribute to MrMelbert and their hardwork for the original Jolly/Maple/TaleStation.
 Some commits prior to March 22nd 2022 we would like to attribute to MrMelbert as well.
 
-The current icon for TaleStation, both used on GitHub and the server, we would like to attribute to Goffy.
+The current icon for TaleStation, both used on GitHub and the server, we would like to attribute to Zydras.
