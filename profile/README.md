@@ -5,9 +5,9 @@ TaleStation is committed to giving its players and community a centric RP enviro
 
 Please note, to play on our servers you must join our Discord. Any further questions can be directed there.
 
-Our Discord - https://discord.gg/PMbmF6xAZ5
+Discord - https://discord.gg/PMbmF6xAZ5
 
-Our game server - [byond://join.shiptest.net:1565](byond://join.shiptest.net:1565)
+Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 
 # TaleStation's Development Staff
 
