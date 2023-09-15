@@ -70,3 +70,8 @@ Most commits prior to January 2022 we would like to attribute to MrMelbert and t
 Some commits prior to March 22nd 2022 we would like to attribute to MrMelbert as well.
 
 The current icon for TaleStation, both used on GitHub and the server, we would like to attribute to Zydras.
+
+Some of the team icons are atrrituted to:
+- Maptainer - <a href="https://www.flaticon.com/free-icons/location" title="location icons">Location icons created by Freepik - Flaticon</a>
+- Spritetainer - <a href="https://www.flaticon.com/free-icons/wikipedia" title="wikipedia icons">Wikipedia icons created by Freepik - Flaticon</a>
+- Wiki Curator - <a href="https://www.flaticon.com/free-icons/canvas" title="canvas icons">Canvas icons created by Freepik - Flaticon</a>
