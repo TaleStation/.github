@@ -37,7 +37,9 @@ Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 
 <details>
 <summary> Wiki Tean</summary>
+  
 - SpaceSmithers - Wiki Curator
+
 </details>
 
 # TaleStation History and Lore
