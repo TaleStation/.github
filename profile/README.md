@@ -33,6 +33,13 @@ Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 - Imaginos - Lore Write
 </details>
 
+# TaleStation's Non-Development Staff
+
+<details>
+<summary> Wiki Tean</summary>
+- SpaceSmithers - Wiki Curator
+</details>
+
 # TaleStation History and Lore
 More information about our lore can be found [here](https://github.com/TaleStation/TaleStation-CommonCore)!
 
