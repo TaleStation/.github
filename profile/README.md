@@ -19,7 +19,7 @@ Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 - Jolly - Project Lead, Maptainer
 - Prodirus - Head coder, Maintainer
 - John Fulp Willard - Upstream Manager
-- Onule - Spritetainer, Sprite lead
+- Onule - Head Spriter, Spritetainer
 </details>
 
 <details>
@@ -36,7 +36,7 @@ Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 # TaleStation's Non-Development Staff
 
 <details>
-<summary> Wiki Tean</summary>
+<summary> Wiki Team</summary>
   
 - SpaceSmithers - Wiki Curator
 
