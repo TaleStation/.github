@@ -20,6 +20,7 @@ Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 - Prodirus - Head coder, Maintainer
 - John Fulp Willard - Upstream Manager
 - Onule - Head Spriter, Spritetainer
+- Zutogl - Head Mapper, Maptainer
 </details>
 
 <details>
