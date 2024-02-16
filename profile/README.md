@@ -1,5 +1,5 @@
 # Welcome to TaleStation!
-TaleStation is a /TG/station downstream, committed to giving an enticing roleplay experience. We hope you'll enjoy your stay.
+TaleStation is a fork of /TG/station, committed to giving an enticing roleplay experience. We hope you'll enjoy your stay.
 
 TaleStation is committed to giving its players and community a centric RP environment for them to play in. An environment where death and paranoia are key parts, as well as story-telling. Make friends, make enemies, slip and kill someone! Be engaged in dramas and sorrows, creating unique and fun narratives for you and all your frinds.
 
