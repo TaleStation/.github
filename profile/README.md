@@ -18,9 +18,9 @@ Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 - Patchy - Misc Backend Support
 - Jolly - Project Lead, Maptainer
 - Prodirus - Head coder, Maintainer
-- John Fulp Willard - Upstream Manager
+- John Fulp Willard - Maintainer
 - Onule - Head Spriter, Spritetainer
-- Zutogl - Head Mapper, Maptainer
+- Zytogl - Head Mapper, Maptainer
 </details>
 
 <details>
