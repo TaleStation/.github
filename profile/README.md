@@ -17,10 +17,11 @@ Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 - ZephyrTFA - Server Host, Backend Support
 - Patchy - Misc Backend Support
 - Jolly - Project Lead, Maptainer
-- Prodirus - Head coder, Maintainer
+- Prodirus - Head Coder, Maintainer
 - John Fulp Willard - Maintainer
 - Onule - Head Spriter, Spritetainer
 - Zytogl - Head Mapper, Maptainer
+- Cheshify - Head Mapper, Maptainer
 </details>
 
 <details>
