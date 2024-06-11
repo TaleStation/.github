@@ -21,7 +21,6 @@ Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
 - John Fulp Willard - Maintainer
 - Onule - Head Spriter, Spritetainer
 - Zytogl - Head Mapper, Maptainer
-- Cheshify - Head Mapper, Maptainer
 </details>
 
 <details>
