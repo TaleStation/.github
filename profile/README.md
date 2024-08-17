@@ -3,8 +3,6 @@ TaleStation is a fork of /TG/station, committed to giving an enticing roleplay e
 
 TaleStation is committed to giving its players and community a centric RP environment for them to play in. An environment where death and paranoia are key parts, as well as story-telling. Make friends, make enemies, slip and kill someone! Be engaged in dramas and sorrows, creating unique and fun narratives for you and all your frinds.
 
-Please note, to play on our servers you must join our Discord. Any further questions can be directed there.
-
 Discord - https://discord.gg/PMbmF6xAZ5
 
 Server - byond://join.shiptest.net:1565 / https://shiptest.net/tale
@@ -59,11 +57,8 @@ TaleStation is committed to giving its players an inclusive, enjoyable roleplayi
 
 <details>
 <summary> Purpose Statement </summary>
-We are not HRP nor MRP, but somewhere in-between. Ideally, we would like to not be identified with such terms. We would like to be known as **the roleplay** server. Simply as. 
-
 TaleStation is a non erotic, adult roleplay server.
 We want to create a server where everyone and anyone can come and make a story for their characters. 
-Classically, we'd be considered a "HRP" server, but we just want to be known as a true "RP" server. Interactions is key!
 
 The environment here at TaleStation should be friendly to approach OOCly. If you have any issues, never be afraid to ahelp or ask staff. We'll try our best to answer questions you may have. Secondly, we want our players to be **as inclusive** as possible. Dramas, tragedies, and comedies abound. Try to include new people to your groups! Who knows, you may just make a new friend.
 
